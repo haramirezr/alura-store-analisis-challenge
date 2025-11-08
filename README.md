@@ -1,4 +1,4 @@
-# alura-store-analisis-challengue
+# alura-store-analisis-challenge
 
 ## Primera Pata
 Creado un nuevo repositorio en GitHub para almacenar el proyecto.
