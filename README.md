@@ -1,7 +1,7 @@
 # alura-store-analisis-challengue
 
 ## Primera Pata
-Creado un nuevo repositorio en GitHub para almacenar tu proyecto.
+## Creado un nuevo repositorio en GitHub para almacenar tu proyecto.
 
 Exportado cuaderno de Colab como un archivo .ipynb.
 
